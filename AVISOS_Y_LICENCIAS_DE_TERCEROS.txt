@@ -1,5 +1,5 @@
 AVISOS Y LICENCIAS DE COMPONENTES DE TERCEROS
-RoboScript 1.7.0
+RoboScript 1.7.1
 Actualizado: 23 de julio de 2026
 
 RoboScript incorpora software de terceros. Cada componente conserva sus propios derechos de autor y condiciones de licencia. La licencia propia de RoboScript no modifica ni restringe los derechos otorgados por esas licencias.
@@ -20,9 +20,9 @@ Conforme a LGPLv3:
 - el usuario conserva los derechos que la LGPLv3 otorga sobre las bibliotecas cubiertas;
 - no se restringe la modificación o sustitución de esas bibliotecas;
 - no se restringe la ingeniería inversa cuando sea necesaria para depurar modificaciones realizadas en dichas bibliotecas;
-- las bibliotecas cubiertas deben permanecer separables y reemplazables en la distribución;
-- se proporciona el texto completo de LGPLv3 junto con la distribución;
-- se proporcionan instrucciones para obtener el código fuente correspondiente de la versión utilizada.
+- las bibliotecas cubiertas permanecen separadas dentro de la distribución portable;
+- se proporcionan los textos completos de LGPLv3 y GPLv3 junto con la distribución;
+- se proporcionan instrucciones para identificar y obtener el código fuente correspondiente de las versiones utilizadas.
 
 Proyecto y documentación oficial:
 https://doc.qt.io/qtforpython-6/
@@ -63,23 +63,25 @@ PyInstaller es una herramienta de construcción. El uso de PyInstaller no convie
 
 La distribución puede incluir componentes transitivos utilizados por Python, Qt o PyInstaller. Sus avisos de licencia deben conservarse en la carpeta de licencias incluida en el paquete portable.
 
-Para Qt y Qt for Python, solo deben incluirse y reconocerse los módulos y componentes realmente distribuidos con RoboScript.
+Para Qt y Qt for Python, solo se incluyen y reconocen los módulos y componentes realmente distribuidos con RoboScript.
 
-5. TEXTOS DE LICENCIA INCLUIDOS
+5. TEXTOS Y AVISOS INCLUIDOS
 
-La distribución portable debe contener, como mínimo:
+La distribución portable de RoboScript 1.7.1 contiene:
 
 - LICENCIA_DE_USO_ROBOSCRIPT.txt
 - AVISOS_Y_LICENCIAS_DE_TERCEROS.txt
 - LICENCIAS/LGPL-3.0.txt
-- LICENCIAS/PYTHON-PSF-LICENSE.txt
-- las licencias adicionales que correspondan a los componentes de Qt efectivamente incluidos
+- LICENCIAS/GPL-3.0.txt
+- LICENCIAS/PYTHON-3.14.3-LICENSE.txt
+- LICENCIAS/PYINSTALLER-6.19.0-COPYING.txt
+- LICENCIAS/FUENTES_DE_COMPONENTES.txt
 
 6. CÓDIGO FUENTE DE COMPONENTES LGPL
 
 El código fuente correspondiente de las bibliotecas LGPL utilizadas por RoboScript puede obtenerse desde los sitios oficiales indicados anteriormente.
 
-Durante al menos el periodo exigido por LGPLv3, el proyecto El Origen mantendrá instrucciones públicas y suficientes para identificar y obtener las fuentes correspondientes a la versión exacta distribuida.
+Durante al menos el periodo exigido por LGPLv3, el proyecto El Origen mantendrá instrucciones públicas suficientes para identificar y obtener las fuentes correspondientes a la versión exacta distribuida.
 
 7. AUSENCIA DE MODIFICACIONES
 
