@@ -1,0 +1,88 @@
+AVISOS Y LICENCIAS DE COMPONENTES DE TERCEROS
+RoboScript 1.7.0
+Actualizado: 23 de julio de 2026
+
+RoboScript incorpora software de terceros. Cada componente conserva sus propios derechos de autor y condiciones de licencia. La licencia propia de RoboScript no modifica ni restringe los derechos otorgados por esas licencias.
+
+1. QT FOR PYTHON / PYSIDE6 / SHIBOKEN6
+
+Componentes utilizados:
+- PySide6 6.10.2
+- PySide6 Essentials 6.10.2
+- PySide6 Addons 6.10.2
+- Shiboken6 6.10.2
+
+Qt for Python se distribuye bajo la GNU Lesser General Public License versión 3 (LGPLv3), la GNU General Public License versión 3 (GPLv3) y una licencia comercial de Qt, según corresponda.
+
+RoboScript utiliza la edición comunitaria bajo LGPLv3 exclusivamente para aquellos módulos disponibles bajo esa licencia.
+
+Conforme a LGPLv3:
+- el usuario conserva los derechos que la LGPLv3 otorga sobre las bibliotecas cubiertas;
+- no se restringe la modificación o sustitución de esas bibliotecas;
+- no se restringe la ingeniería inversa cuando sea necesaria para depurar modificaciones realizadas en dichas bibliotecas;
+- las bibliotecas cubiertas deben permanecer separables y reemplazables en la distribución;
+- se proporciona el texto completo de LGPLv3 junto con la distribución;
+- se proporcionan instrucciones para obtener el código fuente correspondiente de la versión utilizada.
+
+Proyecto y documentación oficial:
+https://doc.qt.io/qtforpython-6/
+
+Licencias de Qt for Python:
+https://doc.qt.io/qtforpython-6/licenses.html
+
+Código fuente correspondiente:
+https://code.qt.io/cgit/pyside/pyside-setup.git/
+
+Fuentes y versiones publicadas:
+https://download.qt.io/official_releases/QtForPython/
+
+2. PYTHON
+
+RoboScript incluye partes del entorno de ejecución de Python 3.14.3.
+
+Python se distribuye bajo la Python Software Foundation License y otras licencias compatibles aplicables a componentes incluidos en su distribución.
+
+Licencia y avisos oficiales:
+https://docs.python.org/3/license.html
+
+Código fuente:
+https://www.python.org/downloads/source/
+
+3. PYINSTALLER
+
+RoboScript fue empaquetado utilizando PyInstaller 6.19.0.
+
+PyInstaller utiliza un esquema de licencia dual que incluye GPL 2.0 con una excepción que permite usar el programa para construir y distribuir aplicaciones comerciales o propietarias. Algunos archivos se distribuyen bajo Apache License 2.0.
+
+Licencia oficial:
+https://pyinstaller.org/en/stable/license.html
+
+PyInstaller es una herramienta de construcción. El uso de PyInstaller no convierte automáticamente RoboScript en software GPL.
+
+4. OTROS COMPONENTES
+
+La distribución puede incluir componentes transitivos utilizados por Python, Qt o PyInstaller. Sus avisos de licencia deben conservarse en la carpeta de licencias incluida en el paquete portable.
+
+Para Qt y Qt for Python, solo deben incluirse y reconocerse los módulos y componentes realmente distribuidos con RoboScript.
+
+5. TEXTOS DE LICENCIA INCLUIDOS
+
+La distribución portable debe contener, como mínimo:
+
+- LICENCIA_DE_USO_ROBOSCRIPT.txt
+- AVISOS_Y_LICENCIAS_DE_TERCEROS.txt
+- LICENCIAS/LGPL-3.0.txt
+- LICENCIAS/PYTHON-PSF-LICENSE.txt
+- las licencias adicionales que correspondan a los componentes de Qt efectivamente incluidos
+
+6. CÓDIGO FUENTE DE COMPONENTES LGPL
+
+El código fuente correspondiente de las bibliotecas LGPL utilizadas por RoboScript puede obtenerse desde los sitios oficiales indicados anteriormente.
+
+Durante al menos el periodo exigido por LGPLv3, el proyecto El Origen mantendrá instrucciones públicas y suficientes para identificar y obtener las fuentes correspondientes a la versión exacta distribuida.
+
+7. AUSENCIA DE MODIFICACIONES
+
+A la fecha de esta versión, el proyecto El Origen no declara modificaciones propias al código fuente de Qt, PySide6 o Shiboken6. Si en una versión futura se realizan modificaciones, deberán publicarse las fuentes correspondientes conforme a la licencia aplicable.
+
+Este documento es informativo y no sustituye los textos completos de las licencias aplicables.
