@@ -1,0 +1,71 @@
+LICENCIA DE USO DE ROBOSCRIPT
+Versión 1.0 — 23 de julio de 2026
+
+Copyright © 2026 Rodrigo Serrano Rieloff / Proyecto El Origen.
+Todos los derechos reservados sobre RoboScript, BotScript, su identidad gráfica, documentación propia y contenidos originales, salvo los componentes de terceros identificados expresamente.
+
+1. OBJETO
+
+Esta licencia regula el uso de RoboScript, aplicación educativa del proyecto El Origen. RoboScript se distribuye gratuitamente, pero no se publica como software de código abierto.
+
+2. USOS AUTORIZADOS
+
+Se autoriza, sin costo:
+
+- descargar y ejecutar copias oficiales de RoboScript;
+- utilizar RoboScript con fines personales, educativos e institucionales;
+- realizar copias de respaldo;
+- copiar y compartir, sin cobrar por ello, el paquete oficial completo y sin modificaciones;
+- utilizar materiales producidos con RoboScript en actividades de enseñanza y aprendizaje.
+
+3. CONDICIONES
+
+Toda redistribución autorizada debe:
+
+- conservar intacto el paquete oficial;
+- mantener los avisos de autoría, licencia y componentes de terceros;
+- no presentarse como una versión propia, modificada u oficialmente respaldada por otra persona o entidad;
+- no inducir a error respecto del origen, autoría o relación con el proyecto El Origen.
+
+4. USOS NO AUTORIZADOS
+
+Salvo autorización escrita del titular, no se permite:
+
+- vender, arrendar, sublicenciar o cobrar por RoboScript como producto independiente;
+- modificar y redistribuir RoboScript o una versión derivada bajo el mismo nombre o identidad visual;
+- eliminar o alterar avisos de autoría, licencia o atribución;
+- utilizar las marcas, nombres, logotipos o elementos gráficos de RoboScript, BotScript o El Origen para aparentar una relación oficial inexistente;
+- publicar, distribuir o poner a disposición el código fuente propio de RoboScript;
+- incorporar RoboScript a un producto comercial o servicio pagado de forma que el acceso al programa quede condicionado al pago, sin autorización escrita.
+
+5. COMPONENTES DE TERCEROS
+
+RoboScript incorpora componentes de terceros que se distribuyen bajo sus propias licencias. Esta licencia no limita ni reemplaza los derechos concedidos por esas licencias.
+
+En particular, las restricciones de esta licencia no se aplican cuando una licencia de terceros —incluida la GNU Lesser General Public License versión 3— otorgue expresamente derechos de uso, modificación, sustitución, depuración o ingeniería inversa respecto de ese componente y solo en la medida necesaria para ejercer dichos derechos.
+
+Los avisos correspondientes se encuentran en AVISOS_Y_LICENCIAS_DE_TERCEROS.txt y en los textos de licencia incluidos con cada distribución.
+
+6. AUSENCIA DE GARANTÍAS
+
+RoboScript se proporciona “tal cual”, sin garantías expresas o implícitas de funcionamiento ininterrumpido, ausencia de errores, adecuación a un propósito particular o compatibilidad con todo equipo o configuración.
+
+El usuario es responsable de mantener copias de respaldo de sus ejercicios y datos.
+
+7. LIMITACIÓN DE RESPONSABILIDAD
+
+En la máxima medida permitida por la ley aplicable, el titular no será responsable por pérdidas de datos, interrupciones, daños indirectos o consecuencias derivadas del uso o imposibilidad de uso de RoboScript.
+
+Nada de esta cláusula excluye responsabilidades que legalmente no puedan excluirse.
+
+8. TERMINACIÓN
+
+La autorización concedida termina automáticamente si se incumplen estas condiciones. Los derechos concedidos por licencias de terceros permanecen regidos exclusivamente por dichas licencias.
+
+9. CONTACTO Y AUTORIZACIONES
+
+Las solicitudes para modificar, redistribuir versiones alteradas, realizar integraciones comerciales o utilizar la identidad del proyecto deben dirigirse a través de los canales oficiales de El Origen.
+
+10. ACEPTACIÓN
+
+La descarga, instalación, ejecución o redistribución de RoboScript implica la aceptación de esta licencia.
