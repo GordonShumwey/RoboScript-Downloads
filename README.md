@@ -8,7 +8,9 @@ El código fuente y el historial de desarrollo no se publican en este repositori
 
 RoboScript es una aplicación para diseñar, ejecutar y analizar actividades de pensamiento computacional mediante un robot que se desplaza sobre un tablero. Utiliza **BotScript 1.3**, el lenguaje educativo del proyecto.
 
-## Descarga
+## Versión actual
+
+La versión pública estable es **RoboScript 1.7.1 para Windows x64**.
 
 Las versiones oficiales se publican en la sección **Releases** de este repositorio.
 
@@ -45,10 +47,16 @@ RoboScript utiliza Python, Qt for Python/PySide6, Shiboken6 y otros componentes.
 Para comprobar el archivo descargado en PowerShell:
 
 ```powershell
-Get-FileHash .\RoboScript_1.7.0_Windows_x64.zip -Algorithm SHA256
+Get-FileHash .\RoboScript_1.7.1_Windows_x64.zip -Algorithm SHA256
 ```
 
-El resultado debe coincidir con el archivo `.sha256.txt` publicado junto a la versión.
+El resultado debe coincidir con el archivo `RoboScript_1.7.1_Windows_x64.sha256.txt` publicado junto a la versión.
+
+SHA-256 oficial de RoboScript 1.7.1:
+
+```text
+5FDE45DF41511F39842FB997E5C0606586A5F99415AA580A70098D45B15A6906
+```
 
 ## Limitación visual conocida
 
